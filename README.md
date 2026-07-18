@@ -34,19 +34,19 @@ A responsive calculator with chained arithmetic, keyboard controls, percentage h
 
 `React` `TypeScript` `Vitest` `Tailwind CSS`
 
-### [Around the Globe](https://github.com/GlitchingghosT/Around_the_Globe) · [Live demo](https://around-the-globe-three.vercel.app)
+### [Around the Globe](https://github.com/GlitchingghosT/around-the-globe) · [Live demo](https://around-the-globe-three.vercel.app)
 
 A country explorer for searching and filtering 250 country and territory records, opening detailed profiles, following border-country links, and switching themes.
 
 `React` `TypeScript` `React Router` `Tailwind CSS`
 
-### [Space Tourism Explorer](https://github.com/GlitchingghosT/Let-s_Tour_Space_Together) · [Live demo](https://let-s-tour-space-together.vercel.app)
+### [Space Tourism Explorer](https://github.com/GlitchingghosT/space-tourism-explorer) · [Live demo](https://let-s-tour-space-together.vercel.app)
 
 An animated React and TypeScript implementation of Frontend Mentor's space-tourism challenge, covering destinations, crew profiles, launch technologies, routing, and tab transitions.
 
 `React` `TypeScript` `Framer Motion` `React Router`
 
-### [TaskDuty — Personal Task Manager](https://github.com/GlitchingghosT/PTM) · In development
+### [TaskDuty — Personal Task Manager](https://github.com/GlitchingghosT/personal-task-manager) · In development
 
 A full-stack task-management project with a React and TypeScript frontend prototype plus an Express and MongoDB CRUD API. Client/API integration, authentication, testing, and deployment remain active work; the repository is presented honestly as a developing flagship rather than a finished product.
 
