@@ -1,0 +1,29 @@
+{
+  "quotes": [
+    {
+      "text": "Simplicity is prerequisite for reliability.",
+      "author": "Edsger W. Dijkstra",
+      "source": "EWD498, 1975"
+    },
+    {
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson and Gerald Jay Sussman",
+      "source": "Structure and Interpretation of Computer Programs"
+    },
+    {
+      "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler",
+      "source": "Refactoring"
+    },
+    {
+      "text": "Make it work, make it right, make it fast.",
+      "author": "Kent Beck",
+      "source": "Programming maxim"
+    },
+    {
+      "text": "The function of good software is to make the complex appear to be simple.",
+      "author": "Grady Booch",
+      "source": "Software design maxim"
+    }
+  ]
+}

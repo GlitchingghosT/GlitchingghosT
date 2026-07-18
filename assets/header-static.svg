@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">BishopDGreat — Emmanuel Nwachinemere, Full-Stack Developer</title>
+  <desc id="desc">A neutral circuit-shaped cross beside the BishopDGreat wordmark on a midnight background.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060814"/><stop offset="1" stop-color="#10122d"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#61dbfb"/><stop offset=".5" stop-color="#7e5bff"/><stop offset="1" stop-color="#eebe5c"/></linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="420" fill="url(#bg)"/>
+  <circle cx="260" cy="210" r="150" fill="#7e5bff" opacity=".035"/>
+  <g fill="none" stroke="url(#line)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M153 210H367M260 72V348"/>
+    <path d="M168 210v-34h28M352 210v34h-28M260 94h31v25M260 326h-31v-25" stroke-width="4"/>
+  </g>
+  <g fill="#eebe5c"><circle cx="260" cy="210" r="8"/><circle cx="196" cy="176" r="4"/><circle cx="324" cy="244" r="4"/><circle cx="291" cy="119" r="4"/><circle cx="229" cy="301" r="4"/></g>
+  <text x="455" y="192" fill="#e8ecf6" font-family="DejaVu Sans, Arial, sans-serif" font-size="64" font-weight="700">BishopDGreat</text>
+  <text x="458" y="235" fill="#eebe5c" font-family="DejaVu Sans Mono, monospace" font-size="18" letter-spacing="1.2">EMMANUEL NWACHINEMERE · FULL-STACK DEVELOPER</text>
+  <text x="458" y="280" fill="#a6aec4" font-family="DejaVu Sans, Arial, sans-serif" font-size="25">frontend / backend / data / problem-solving</text>
+</svg>
