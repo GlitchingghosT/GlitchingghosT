@@ -5,7 +5,7 @@
   </picture>
 </div>
 
-<h1 align="center">BishopDgreaT</h1>
+<h1 align="center">BishopDGreat</h1>
 <p align="center"><strong>Emmanuel Nwachinemere · Full-Stack Developer · Lagos, Nigeria</strong></p>
 <p align="center">I build web apps with React, TypeScript, Node.js, and MongoDB. I care about how they feel to use, and I care just as much about what happens behind the screen.</p>
 
