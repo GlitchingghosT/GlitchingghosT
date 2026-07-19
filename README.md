@@ -7,7 +7,7 @@
 
 <h1 align="center">BishopDGreat</h1>
 <p align="center"><strong>Emmanuel Nwachinemere · Full-Stack Developer · Lagos, Nigeria</strong></p>
-<p align="center">I turn real problems into responsive user experiences, reliable application logic, and maintainable web products.</p>
+<p align="center">I build web apps with React, TypeScript, Node.js, and MongoDB. I care about how they feel to use, and I care just as much about what happens behind the screen.</p>
 
 <p align="center">
   <a href="mailto:nwachinemereemmanuel43@gmail.com">Email me</a> ·
@@ -16,11 +16,11 @@
   <a href="assets/Emmanuel_Nwachinemere_Full_Stack_Developer_ATS_CV.pdf">Download ATS résumé</a>
 </p>
 
-<p align="center"><strong>Open to full-time, contract, freelance, and collaborative opportunities.</strong></p>
+<p align="center"><strong>I'm open to full-time roles, contract work, freelance projects, and good ideas worth building.</strong></p>
 
 ## What I build
 
-I work across the product stack—from accessible React interfaces to Express APIs and MongoDB-backed workflows. I care about the details that make software dependable: clear states, validation, error handling, responsive behavior, readable code, testing, and documentation.
+Most of my work starts in React and TypeScript, but I am comfortable following a feature into the API and database when that is what it needs. I pay attention to the less glamorous parts too: loading states, broken inputs, useful errors, mobile layouts, and code I can still understand a month later.
 
 - **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS, Bootstrap, Vite
 - **Backend & data:** Node.js, Express, REST APIs, MongoDB, Mongoose
@@ -30,40 +30,40 @@ I work across the product stack—from accessible React interfaces to Express AP
 
 ### [Calculator](https://github.com/GlitchingghosT/Calculator) · [Live demo](https://magnificent-heliotrope-8e9d7b.netlify.app/)
 
-A responsive calculator with chained arithmetic, keyboard controls, percentage handling, persistent themes, readable number formatting, tested engine utilities, and semantic live output.
+I built this calculator to get the small details right: keyboard input, chained calculations, percentages, saved themes, readable numbers, and a result display that works with screen readers. Its calculation engine is covered by automated tests.
 
 `React` `TypeScript` `Vitest` `Tailwind CSS`
 
 ### [Around the Globe](https://github.com/GlitchingghosT/around-the-globe) · [Live demo](https://around-the-globe-three.vercel.app)
 
-A country explorer for searching and filtering 250 country and territory records, opening detailed profiles, following border-country links, and switching themes.
+Browse 250 country and territory records, filter them by name or region, open a country for more detail, and follow its border links. It also has light and dark themes and direct URLs that work when shared or refreshed.
 
 `React` `TypeScript` `React Router` `Tailwind CSS`
 
 ### [Space Tourism Explorer](https://github.com/GlitchingghosT/space-tourism-explorer) · [Live demo](https://let-s-tour-space-together.vercel.app)
 
-An animated React and TypeScript implementation of Frontend Mentor's space-tourism challenge, covering destinations, crew profiles, launch technologies, routing, and tab transitions.
+This started as a Frontend Mentor challenge. I used it to practise page transitions, route-based navigation, responsive layouts, and animated destination, crew, and technology screens.
 
 `React` `TypeScript` `Framer Motion` `React Router`
 
 ### [TaskDuty — Personal Task Manager](https://github.com/GlitchingghosT/personal-task-manager) · In development
 
-A full-stack task-management project with a React and TypeScript frontend prototype plus an Express and MongoDB CRUD API. Client/API integration, authentication, testing, and deployment remain active work; the repository is presented honestly as a developing flagship rather than a finished product.
+TaskDuty is where I am putting the full stack together. The React interface and MongoDB-backed Express API are in place; connecting the two, adding authentication, and separating each user's tasks are the next pieces. It is still in development, so I am not pretending it is finished.
 
 `React` `TypeScript` `Express` `MongoDB` `Mongoose`
 
-## Engineering focus
+## What I'm working on now
 
-- Building TaskDuty's end-to-end task workflows and per-user data model
-- Adding repeatable tests and CI gates to the strongest projects
-- Shipping accessible, responsive interfaces with reliable direct routes
-- Documenting implementation decisions as concise project case studies
+- Connecting TaskDuty's frontend to its API
+- Adding authentication and making sure users only see their own tasks
+- Writing more tests for the projects I plan to keep growing
+- Improving accessibility and mobile behavior as I revisit older work
 
 ## Developer's Log
 
 ![Developer's Log quote: “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra, EWD498, 1975.](assets/developers-log.svg)
 
-The quote card is generated from a small, locally stored, attributed collection—no external quote service or copied profile component.
+I keep a small local collection of quotes that have shaped how I think about software. The card is generated from that list and keeps the original attribution.
 
 ## Contact
 
@@ -74,4 +74,4 @@ The quote card is generated from a small, locally stored, attributed collection�
 
 ---
 
-<p align="center"><sub>Designed and maintained by BishopDGreat.</sub></p>
+<p align="center"><sub>Built and maintained by BishopDGreat.</sub></p>
