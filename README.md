@@ -48,15 +48,15 @@ This started as a Frontend Mentor challenge. I used it to practise page transiti
 
 ### [TaskDuty — Personal Task Manager](https://github.com/GlitchingghosT/personal-task-manager) · In development
 
-TaskDuty is where I am putting the full stack together. The React interface and MongoDB-backed Express API are in place; connecting the two, adding authentication, and separating each user's tasks are the next pieces. It is still in development, so I am not pretending it is finished.
+TaskDuty is my full-stack task manager. The React client now talks to a protected Express and MongoDB API with registration, login, per-user task ownership, validation, and 31 automated tests. Production deployment is the remaining step.
 
 `React` `TypeScript` `Express` `MongoDB` `Mongoose`
 
 ## What I'm working on now
 
-- Connecting TaskDuty's frontend to its API
-- Adding authentication and making sure users only see their own tasks
-- Writing more tests for the projects I plan to keep growing
+- Deploying TaskDuty's API and frontend
+- Adding CI checks to the repositories I plan to keep growing
+- Turning finished projects into short, useful case studies
 - Improving accessibility and mobile behavior as I revisit older work
 
 ## Developer's Log
