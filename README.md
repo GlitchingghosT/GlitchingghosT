@@ -10,6 +10,7 @@
 <p align="center">I build web apps with React, TypeScript, Node.js, and MongoDB. I care about how they feel to use, and I care just as much about what happens behind the screen.</p>
 
 <p align="center">
+  <a href="https://bishopdgreat.netlify.app">Portfolio</a> ·
   <a href="mailto:nwachinemereemmanuel43@gmail.com">Email me</a> ·
   <a href="https://www.linkedin.com/in/emmanuel-nwachinemere-b166aa234/">LinkedIn</a> ·
   <a href="assets/Emmanuel_Nwachinemere_Full_Stack_Developer_CV.pdf">View designed résumé</a> ·
@@ -67,6 +68,7 @@ I keep a small local collection of quotes that have shaped how I think about sof
 
 ## Contact
 
+- **Portfolio:** [bishopdgreat.netlify.app](https://bishopdgreat.netlify.app)
 - **Email:** [nwachinemereemmanuel43@gmail.com](mailto:nwachinemereemmanuel43@gmail.com)
 - **LinkedIn:** [Emmanuel Nwachinemere](https://www.linkedin.com/in/emmanuel-nwachinemere-b166aa234/)
 - **Location:** Lagos, Nigeria
