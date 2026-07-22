@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-labelledby="title desc">
-  <title id="title">Developer's Log quote by Edsger W. Dijkstra</title>
-  <desc id="desc">Simplicity is prerequisite for reliability.</desc>
+  <title id="title">Developer's Log quote by Grady Booch</title>
+  <desc id="desc">The function of good software is to make the complex appear to be simple.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0d1a"/><stop offset="1" stop-color="#151334"/></linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#61dbfb"/><stop offset=".52" stop-color="#7e5bff"/><stop offset="1" stop-color="#eebe5c"/></linearGradient>
   </defs>
   <rect x="1" y="1" width="998" height="298" rx="16" fill="url(#bg)" stroke="#313858"/>
   <rect x="0" y="0" width="8" height="300" rx="4" fill="url(#accent)"/>
-  <text x="72" y="56" fill="#eebe5c" font-family="DejaVu Sans Mono, monospace" font-size="15" letter-spacing="2">DEVELOPER'S LOG / 2026-07-18</text>
-  <text x="72" y="112" fill="#edf0f8" font-family="DejaVu Sans, Arial, sans-serif" font-size="28"><tspan x="72" dy="0">Simplicity is prerequisite for reliability.</tspan></text>
-  <text x="72" y="150" fill="#a6aec4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17">— Edsger W. Dijkstra · EWD498, 1975</text>
+  <text x="72" y="56" fill="#eebe5c" font-family="DejaVu Sans Mono, monospace" font-size="15" letter-spacing="2">DEVELOPER'S LOG / 2026-07-22</text>
+  <text x="72" y="112" fill="#edf0f8" font-family="DejaVu Sans, Arial, sans-serif" font-size="28"><tspan x="72" dy="0">The function of good software is to make the complex</tspan><tspan x="72" dy="38">appear to be simple.</tspan></text>
+  <text x="72" y="188" fill="#a6aec4" font-family="DejaVu Sans, Arial, sans-serif" font-size="17">— Grady Booch · Software design maxim</text>
   <g transform="translate(902 224)" fill="none" stroke="url(#accent)" stroke-width="3"><path d="M0 24h48M24 0v48"/><circle cx="24" cy="24" r="5" fill="#eebe5c" stroke="none"/></g>
 </svg>

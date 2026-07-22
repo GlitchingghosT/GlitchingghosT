@@ -1,0 +1,41 @@
+name: Rotate Developer's Log
+
+on:
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: developers-log
+  cancel-in-progress: false
+
+jobs:
+  rotate-quote:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Test quote renderer
+        run: python3 -m unittest discover -s tests -p 'test_*.py'
+
+      - name: Render today's quote
+        run: python3 scripts/render_quote.py
+
+      - name: Commit changed card
+        run: |
+          git add README.md assets/developers-log.svg
+          if git diff --cached --quiet; then
+            echo 'Developer Log is already current.'
+            exit 0
+          fi
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "chore: rotate Developer's Log"
+          git push

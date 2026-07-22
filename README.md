@@ -62,9 +62,9 @@ TaskDuty is my full-stack task manager. The React client now talks to a protecte
 
 ## Developer's Log
 
-![Developer's Log quote: “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra, EWD498, 1975.](assets/developers-log.svg)
+![Daily Developer's Log quote card](assets/developers-log.svg?v=2026-07-22)
 
-I keep a small local collection of quotes that have shaped how I think about software. The card is generated from that list and keeps the original attribution.
+I keep a small local collection of quotes that have shaped how I think about software. The card is generated from that list and keeps each quote's attribution visible.
 
 ## Contact
 
