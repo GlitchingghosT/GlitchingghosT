@@ -64,8 +64,6 @@ TaskDuty is my full-stack task manager. The React client now talks to a protecte
 
 ![Daily Developer's Log quote card](assets/developers-log.svg?v=2026-08-02)
 
-I keep a small local collection of quotes that have shaped how I think about software. The card is generated from that list and keeps each quote's attribution visible.
-
 ## Contact
 
 - **Portfolio:** [bishopdgreat.netlify.app](https://bishopdgreat.netlify.app)
